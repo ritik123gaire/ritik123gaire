@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web application projects and web 3.0 projects.<br><br>🤓 I’m currently exploring mobile application development.<br>
+🔭 I’m currently working on web application projects and web 3.0 projects.<br><br>🤓 I’m currently exploring devops.<br>
 
 
 ## 🌐 Socials:
