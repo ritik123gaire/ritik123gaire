@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web application projects and web 3.0 projects.<br><br>🤓 I’m currently exploring devops.<br>
+🔭 I’m currently working on Machine Learning projects and deep learning projects.<br><br>🤓 I’m currently exploring agentic AI.<br>
 
 
 ## 🌐 Socials:
